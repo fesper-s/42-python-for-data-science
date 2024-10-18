@@ -6,4 +6,6 @@ This is 42 School's Python piscine for data science.
 
 ## Starting
 
-### Exercise 00: First Python Script
+### Exercise 00: First python script
+
+### Exercise 01: First use of package
